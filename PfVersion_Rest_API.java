@@ -8,7 +8,7 @@ import java.net.URL; // Import URL class for URL handling
 import java.security.cert.X509Certificate; // Import X509Certificate for handling certificates
 import java.util.Base64; // Import Base64 for encoding credentials
 
-public class PingFederateApiLicenseVersion { // Define the public class
+public class PingFederateApiVersion { // Define the public class
 
     private static final String API_URL = "https://10.128.0.3:9999/pf-admin-api/v1/version"; // API endpoint URL
     private static final String USERNAME = "Administrator"; // Username for HTTP Basic Authentication
