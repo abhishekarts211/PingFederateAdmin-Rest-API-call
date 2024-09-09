@@ -10,7 +10,7 @@ import java.util.Base64; // Import Base64 for encoding credentials
 
 public class PingFederateApiVersion { // Define the public class
 
-    private static final String API_URL = "https://10.128.0.3:9999/pf-admin-api/v1/version"; // API endpoint URL
+    private static final String API_URL = "https://localhost:9999/pf-admin-api/v1/version"; // API endpoint URL
     private static final String USERNAME = "Administrator"; // Username for HTTP Basic Authentication
     private static final String PASSWORD = "*********"; // Password for HTTP Basic Authentication
 
