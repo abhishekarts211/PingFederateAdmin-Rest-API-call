@@ -1,4 +1,4 @@
-package pfrestcall; // Package declaration
+package com.pfadmin.asl; // Package declaration
 
 import javax.net.ssl.*; // Import SSL/TLS classes for handling secure connections
 import java.io.BufferedReader; // Import BufferedReader for reading text from an input stream
